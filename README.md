@@ -1,4 +1,4 @@
-# StartSteps_Online-Marketing-Plan
+# CompassCourse_Online-Marketing-Plan
 It's an online marketing plan for a start-up business (Group project - Our own business idea)
 
 ## EcoStation - Eco for today and tomorrow (Online Marketing)
